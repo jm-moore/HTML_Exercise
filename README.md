@@ -9,14 +9,14 @@ slug: "/html-intro-exercise"
 
 Practice using HTML tags to structure a content on web pages.
 
-## Exercise 1
+## Exercise 1 DONE
 
 Steps are to be completed under the div with `id="exercise1"`
 
 1. Create a **heading 1** element that contains your name between opening and closing tags
 2. Create a **paragraph** element that contains a bio about yourself
 
-## Exercise 2
+## Exercise 2 DONE
 
 Steps are to be completed under the div with `id="exercise2"`
 
@@ -28,7 +28,7 @@ Steps are to be completed under the div with `id="exercise2"`
    - The second **anchor** element should link to the _TrueCoders homepage_
    - The third **anchor** element should link to your _most visited website_
 
-## Exercise 3
+## Exercise 3 DONE
 
 Steps are to be completed under the div with `id="exercise3"`
 
@@ -36,7 +36,7 @@ Steps are to be completed under the div with `id="exercise3"`
 2. Add an **src** attribute with a _relative path_ value that points to the `./images/example.png` file
 3. Add an **alt** attribute with a _text description_ value of the image
 
-## Exercise 4
+## Exercise 4 DONE
 
 Steps are to be completed under the div with `id="exercise4"`
 
@@ -46,7 +46,7 @@ Steps are to be completed under the div with `id="exercise4"`
    - any word "beautiful" is enclosed in an emphasis element
    - any word "point" is enclosed in an strong element
 
-## Exercise 5
+## Exercise 5 DONE
 
 Steps are to be completed under the div with `id="exercise5"`
 
